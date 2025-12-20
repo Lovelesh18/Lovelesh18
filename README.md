@@ -1,5 +1,9 @@
 
-Hi 👋 I’m a Data Analyst Fresher who loves turning raw data into clear insights and stories that matter. I’ve completed hands-on training in Data Analytics, where I worked on real-world datasets and built projects focused on solving business problems using data.<br><br>I’m passionate about cleaning messy data, finding patterns, and creating meaningful visualizations that support better decision-making. I believe data is powerful when it tells the right story—and that’s what I aim to do.<br><br>🛠️ Skills & Tools<br><br>Python (Pandas, NumPy, Matplotlib)<br><br>SQL for data querying<br><br>Excel (Advanced formulas, Pivot Tables, Dashboards)<br><br>Power BI (Interactive reports & dashboards)<br><br>Data Cleaning, EDA & Insights Generation<br><br>🎯 Career Goal<br><br>To start my career as a Junior / Entry-Level Data Analyst, grow my analytical skills, and contribute to data-driven decision making in a real business environment.<br><br>📊 Data | 📈 Insights | 🚀 Growth Mindset<br>
+I’m a tech-driven fresher with a strong foundation in Data Analytics, Backend Development, and Computer Vision. I enjoy working with data, building practical applications, and exploring how technology can solve real-world problems.
+
+I have hands-on experience with Python-based development, data analysis, database management, and visualization. Alongside analytics, I’ve also worked with web technologies and frameworks, allowing me to understand both data and application workflows.
+
+I’m particularly interested in data-driven solutions, automation, and intelligent systems, and I’m constantly learning new tools and technologies to sharpen my skills..<br><br>🛠️ Skills & Tools<br><br>Python (Pandas, NumPy, Matplotlib)<br><br>SQL for data querying<br><br>Excel (Advanced formulas, Pivot Tables, Dashboards)<br><br>Power BI (Interactive reports & dashboards)<br><br>Data Cleaning, EDA & Insights Generation<br><br>🎯 Career Goal<br><br>To start my career as a Junior / Entry-Level Data Analyst, grow my analytical skills, and contribute to data-driven decision making in a real business environment.<br><br>📊 Data | 📈 Insights | 🚀 Growth Mindset<br>
 
 
 ## 🌐 Socials:
