@@ -3,12 +3,11 @@ I’m a tech-driven fresher with a strong foundation in Data Analytics, Backend 
 
 I have hands-on experience with Python-based development, data analysis, database management, and visualization. Alongside analytics, I’ve also worked with web technologies and frameworks, allowing me to understand both data and application workflows.
 
-I’m particularly interested in data-driven solutions, automation, and intelligent systems, and I’m constantly learning new tools and technologies to sharpen my skills..<br><br>🛠️ 🛠️ Technical Skills
-🔹 Programming & Scripting
-
-Python
-
-JavaScript
+I’m particularly interested in data-driven solutions, automation, and intelligent systems, and I’m constantly learning new tools and technologies to sharpen my skills..<br><br>
+🛠️ Technical Skills
+ 🔹 Programming & Scripting
+     Python
+     JavaScript
 
 🔹 Data Analytics & Visualization
 
